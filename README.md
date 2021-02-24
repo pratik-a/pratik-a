@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Friends 👋
 
 <!--
 **pratik-a/pratik-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Pratik Awasthi</h1>
-<h3 align="center">open to contribute and help</h3>
+<h1 align="center"> I'm Pratik Awasthi</h1>
+<h3 align="center">open to lear, contribute and help</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
