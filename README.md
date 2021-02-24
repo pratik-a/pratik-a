@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center"> I'm Pratik Awasthi</h1>
-<h3 align="center">open to lear, contribute and help</h3>
+<h3 align="center">Open to learn and contribute </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
