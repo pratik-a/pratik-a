@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/_its_pratik" target="blank"><img src="https://img.shields.io/twitter/follow/_its_pratik?logo=twitter&style=for-the-badge" alt="_its_pratik" /></a> </p>
 
-- ⚡ Fun fact **i am good at coonversation**
+- ⚡ Fun fact **i am good at conversation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
