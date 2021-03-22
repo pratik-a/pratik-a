@@ -20,7 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratik-a&show_icons=true&locale=en&layout=compact" alt="pratik-a" /></p>
 
-<ahref=""><img width="35%" align="right" alt="GitHub" src="https://github.com/pratik-a/pratik-a/blob/main/octocat-768x576.gif"/></a>
+<ahref=""><img width="35%" align="right" alt="GitHub" src="https://github.com/pratik-a/pratik-a/blob/main/githello.mp4"/></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik-a&show_icons=true&locale=en" alt="pratik-a" /></p>
 
