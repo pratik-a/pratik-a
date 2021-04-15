@@ -22,7 +22,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratik-a&show_icons=true&locale=en&layout=compact" alt="pratik-a" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik-a&show_icons=true&locale=en" alt="pratik-a" width="40" height="40" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik-a&show_icons=true&locale=en" alt="pratik-a" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pratik-a&" alt="pratik-a" /></p>
 
