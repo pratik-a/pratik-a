@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/_its_pratik" target="blank"><img src="https://img.shields.io/twitter/follow/_its_pratik?logo=twitter&style=for-the-badge" alt="_its_pratik" /></a> </p>
 
-<img align="right" src="https://github.com/pratik-a/pratik-a/blob/main/hub.gif" width="500" />
+<img align="right" src="https://github.com/pratik-a/pratik-a/blob/main/hub.gif" width="600" />
 - ⚡ Fun fact **i am good at conversation**
 
 <h3 align="left">Connect with me:</h3>
