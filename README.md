@@ -8,9 +8,11 @@
 
 
 <img align="right" src="https://github.com/pratik-a/pratik-a/blob/main/hub.gif" width="450" />
-- ⚡ Fun fact **i am good at conversation**
-
 - 🌱 I’m currently learning **Data Structure and Algorithm**
+
+- 📫 How to reach me **awasthipratik.98@gmail.com**
+
+- ⚡ Fun fact **i am good at conversation**
 
 
 
